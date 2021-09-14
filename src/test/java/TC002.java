@@ -1,4 +1,5 @@
 public class TC002 {
+<<<<<<< HEAD
 
     //work 1 completed
 
@@ -9,4 +10,6 @@ public class TC002 {
 
     //testcase finished
 
+=======
+>>>>>>> 5d4189d (STARTED for tc002)
 }
